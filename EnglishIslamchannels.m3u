@@ -1,0 +1,17 @@
+#EXTM3U
+#EXTINF:-1, Eman TV
+https://cdn5.iqsat.net/iq/70cf8d50aaeb4efcd04a42de2762bf3b.sdp/playlist.m3u8
+#EXTINF:-1, Islam Channel
+https://live.islamchannel.tv/islamtv_english/live.m3u8
+#EXTINF:-1, Iqraa TV Europe
+http://iqraac.cdn.mangomolo.com/iqraa/smil:iqraar2.stream.smil/chunklist_b1800000_t64NTc2cA==.m3u8
+#EXTINF:-1, Al Istiqama
+https://jmc-live.ercdn.net/alistiqama/alistiqama.m3u8
+#EXTINF:-1, British Muslim TV
+https://api.visionip.tv/live/ASHTTP/visiontvuk-international-britishmuslimtv-hsslive-25f-16x9-MB/playlist.m3u8
+#EXTINF:-1, Huda TV
+https://cdn.videoevent.live:19360/elfaro2/elfaro2.m3u8
+#EXTINF:-1, Iqra TV UK
+https://ap02.iqplay.tv:8082/iqb8002/iq6a7k/playlist.m3u8
+#EXTINF:-1, Darut Tarbiyah Trinidad&Tobago
+http://daruttarbiyah.srfms.com:1935/daruttarbiyah/livestream/playlist.m3u8
